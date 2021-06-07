@@ -1,1 +1,1 @@
-This is a quote generator.
+This is a quote generator with animation.
